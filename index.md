@@ -95,3 +95,6 @@ If you own all 30 tables there's no reason you shouldn't be able to run all 30 o
 Despite that, at the end of the day. We don't support or condone piracy; remember, we didn't enable you to do anything other than what Arcade1up had already done we just made it easier to get your updated tables onto your PCB without losing data or having to reflash the entire thing potentially damaging the hardware of the emmc with unnecessary writes to 1,000 other files.
 
 It's funny how Arcade1up has no problem with people making videos of running a PC in their system with a ton of pirated content, but a script that has a legimate use is suddenly an issue?
+
+## Do you have a patreon or any other way to donate to you for creating this?
+No, and we never will this isn't for monetary gain or finacial motive. This is to give the general population the freedom to do what they want with the hardware they own and paid close to if not over $1,000 for.
