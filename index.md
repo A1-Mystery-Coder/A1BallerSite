@@ -107,7 +107,7 @@ Yes, don't condone piracy and only use this to update what you own.
 Example:
 If you own a star wars cabinet, only update to starwars in your video. 
 
-Let people know this is a less damaging safer way to update their cabinets without losing their data (high-scores). While it may not be an officially approved method of updating that same cabinet. It is not illegal and should  they attempt to serve you with a C&D and or DMCA you should absolutely appeal this with YouTube or which ever content delivery platform you use as you have done nothing wrong and have no violated any agreements, laws, terms, or policies.
+Let people know this is a less damaging safer way to update their cabinets without losing their data (high-scores). While it may not be an officially approved method of updating that same cabinet. It is not illegal and should  they attempt to serve you with a C&D and or DMCA you should absolutely appeal this with YouTube or which ever content delivery platform you use as you have done nothing wrong and have not violated any agreements, laws, terms, or policies.
 
 Do not, tell people they can run all 30 tables on one cabinet. Do not condone this activity simply state that at one point this was the focus of the community of this script when the reality is the current ability of this script is that it enables those who want to update to do so without losing their high-scores and even offers support for a wider portion of the community like the Mac OSX users who were not only forgotten but told they don't matter by Arcade1up.
 
