@@ -56,6 +56,8 @@ For more information on right to repair see: https://en.wikipedia.org/wiki/Elect
 
 For more information on the Electronic Frontier Foundation see: https://www.eff.org/
 
+Additionally after looking into the only agreements arcade1up has available for users to view, their service is defined as their website and the products sold through it; their terms and conditions only apply to their website and your usage of it and you only agree to those terms by viewing that website. That being said, even *If* the term "service" could be applied to the pinball cabinet itself or the software on it, despite the fact it connects to no other online service owned by them; they specifically state the resell, sell, copy, re-distribution or exploitation of that service is against their ToS. No where do they state the modification of such is against this, and that is what this is and cannot be considered an exploit as it does not by definition contain the code to be considered an exploit.
+
 ## Was Arcade1up or anyone affiliated with them invovled in the development of this project, software or script?
 No, Arcade1up has actually harmed consumers removing the original updates offered to add additional functionality to their cabinets as a result of this. They unfairly and unjustly have asked content creators on YouTube to remove videos related to this software,script and project claiming that it is piracy.
 
@@ -81,22 +83,16 @@ We simply understand how the open-source software, and hardware Arcade1up uses w
 ## Will you make modifications or hacks for other systems and PCBs?
 Originally, this would've been it. Originally, this site wouldn't have existed.
 
-Now, We're kind of annoyed by the reactions and giant fit thrown by one single Arcade1up employee who has vowed/guaranteed nothing like this would ever happen again. Now we're here to promise you it will.
+Now, We're kind of annoyed by the reactions and giant fit thrown by one single Arcade1up employee who has vowed/guaranteed nothing like this would ever happen again. Now we're here to promise you it will we believe in open and free hardware with unrestricted access, we own it; it's ours.
 
 If there are a generation 2 of pinball cabinets, or any other cabinets it will be our mission to develop modifications for them allowing you to use this hardware in the way you seek, in no way will that goal ever be to enable piracy but simply to allow you to run the software you want to on the hardware you personally own. This all being said, there are fun times ahead and we have a massive stack of different PCBs and a complete understanding how all of them as well as the future mediatek chips work.
 
-We also have exploits in the open-source bootloaders you unfairly make use of without complying to the terms of the agreements of making use of that software, including those used by MediaTek. Good luck on your "this will never happen again"; We're here and we're not leaving.
+We also have exploits in the open-source bootloaders you unfairly and unjustly make use of without complying to the terms of the agreements of making use of that software, including those used by MediaTek. Good luck on your "this will never happen again"; We're here and we're not leaving.
 
 ## Why'd you make this, why does it let me run 30 tables on 1 cabinet if you don't condone or support piracy?
 We made this to allow you to do what you wish with your hardware.
 
-If you own all 30 tables there's no reason you shouldn't be able to run all 30 on a single cabinent, or all 3 cabinents even. As long as you're not making illegal copies of the software, which because you're downloading it from the Arcade1up service where they released the data into the public domain without proof of ownership being required and no terms of service that needed to be agreed to. You may not even be comitting piracy or breaking the law. Despite the fact they own the intellectual propery of portions of the data, as does Zen Studios. Arcade1up owns the license and has the ability to release the data legally as part of that agreement. However they also, made no committment to users to sign and or agree to an EULA or TOS. Therefore they were released into the public domain with no conditions or license restrictions being applied and thus are entirely legal to distribute, download and re-distribute under most circumstances, because of this they also have no right to revoke the license or precendence set forth because as a cabinet owner you were promised to be provided with these updates to correct issues with a faulty product you purchased and they agreed to correct.
-
-The agreement they made was in-writting from those representing them as a company and organization via means of social media, where there were never any terms applied even verbally as to what you were able to do with the data or how you should be using it. No agreement was ever made on the consumer end, while Arcade1up made the agreement to produce the updates and are now trying to revoke that right and not honor the agreement they've made.
-
-Despite that, at the end of the day. We don't support or condone piracy; remember, we didn't enable you to do anything other than what Arcade1up had already done we just made it easier to get your updated tables onto your PCB without losing data or having to reflash the entire thing potentially damaging the hardware of the emmc with unnecessary writes to 1,000 other files.
-
-It's funny how Arcade1up has no problem with people making videos of running a PC in their system with a ton of pirated content, but a script that has a legimate use is suddenly an issue?
+If you own all 30 tables (even via the purchase of a PCB containing the software vs the entire table) there's nothing in their license agreement that restricts this we base this mod on the same premise they do, the honor system that you'll only update what you own.
 
 ## Do you have a patreon or any other way to donate to you for creating this?
 No, and we never will this isn't for monetary gain or finacial motive. This is to give the general population the freedom to do what they want with the hardware they own and paid close to if not over $1,000 for.
